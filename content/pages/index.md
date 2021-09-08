@@ -39,6 +39,7 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
     type: hero_section
+    image: /images/whitney-johnson-ecommerce-leadership-profile1.png
   - type: features_section
     title: Features
     features:
