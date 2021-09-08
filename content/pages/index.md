@@ -13,7 +13,7 @@ sections:
       - label: BOOK SERIES
         url: /features
         style: primary
-      - label: Contact Us
+      - label: VIEW SERIES
         url: /contact
         style: secondary
     align: left
