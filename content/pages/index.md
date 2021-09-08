@@ -3,7 +3,12 @@ title: Home
 sections:
   - type: hero_section
     title: SANYIN SIANG
-    subtitle: Purpose-Driven Leadership
+    subtitle: >-
+      Recently honoured as the World's Most Influential Coach & Mentor, Sanyin
+      Siang now comes to Hero Series to teach us how to be effective and
+      successful purpose-driven leaders.  The series includes methods to build
+      highly motivated teams and strategies to turn purpose into significant
+      business growth.
     actions:
       - label: Learn More
         url: /features
