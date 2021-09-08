@@ -6,7 +6,7 @@ sections:
     subtitle: >-
       Recently honoured as the World's Most Influential Coach & Mentor, Sanyin
       Siang now comes to Hero Series to teach us how to be effective and
-      successful purpose-driven leaders. <br>The series includes methods to
+      successful purpose-driven leaders. <br><br>The series includes methods to
       build highly motivated teams and strategies to turn purpose into
       significant business growth.
     actions:
