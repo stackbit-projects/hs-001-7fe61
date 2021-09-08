@@ -10,7 +10,7 @@ sections:
       highly motivated teams and strategies to turn purpose into significant
       business growth.
     actions:
-      - label: Learn More
+      - label: BOOK SERIES
         url: /features
         style: primary
       - label: Contact Us
