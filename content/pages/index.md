@@ -22,7 +22,7 @@ sections:
     image_position: right
     has_background: true
     background:
-      background_color: blue
+      background_color: white
       background_image: /images/sanyin-siang-purpose-driven-leadership-HPM.png
       background_image_opacity: 20
       background_image_size: auto
