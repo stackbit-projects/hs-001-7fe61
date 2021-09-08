@@ -16,6 +16,11 @@ sections:
       - label: VIEW SERIES
         url: /contact
         style: secondary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: left
     image: /images/sanyin-siang-purpose-driven-leadership-profile1.png
     image_alt: Hero placeholder image
