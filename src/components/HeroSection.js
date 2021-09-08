@@ -43,7 +43,7 @@ export default class HeroSection extends React.Component {
                     'bg-image': hasBackground && backgroundImage,
                     'bg-gray': hasBackground && backgroundColor === 'gray',
                     'bg-blue': hasBackground && backgroundColor === 'blue',
-                    'inverse': hasBackground && backgroundColor === 'blue',
+                    'inverse': hasBackground && backgroundColor === 'white',
                     'section--padding': hasBackground && image
                 })}
             >
