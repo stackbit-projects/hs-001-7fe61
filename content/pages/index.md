@@ -26,7 +26,7 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-  - title: 'Whitney '
+  - title: Whitney Johnson
     subtitle: lorem-ipsum
     actions: []
     align: left
